@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install **_pyth
 pip install python-nmap
 ```
 
-##Usage
+## Usage
 
 To run the script, navigate to the main directory of mpFind.py and then run it using:
 
